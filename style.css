@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.resul{
+    background-color: hwb(39 0% 0%);
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    text-align: center;
+    border-radius: 7px;
+    margin-top: 20px;
+}
+
+.body{
+    background-color: rgb(255, 255, 255);   
+
+}
+
+.top{
+    background-color: hwb(39 0% 0%);
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+}
+
+.tabela{
+    width: 100%;
+    text-align: center;
+}
+
+.botao{
+    padding: 5px;
+
+} 
+
+.P{
+    padding: 5px;
+}
+
+.aside{
+    position: fixed;
+    left: 40%;
+   
+}
